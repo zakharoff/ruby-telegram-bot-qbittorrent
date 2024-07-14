@@ -1,0 +1,4 @@
+en:
+  bot:
+    welcome: "Hi there! It's telegram bot for downloading torrents by qbittorrent."
+    not_defined: "Command not found."
